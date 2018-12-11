@@ -1,0 +1,2 @@
+# hugodoc
+Blog
